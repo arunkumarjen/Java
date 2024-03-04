@@ -1,0 +1,1 @@
+Static SingleTon class
